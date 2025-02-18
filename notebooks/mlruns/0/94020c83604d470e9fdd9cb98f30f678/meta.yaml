@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Documents/10X_Exercises/Week-8-9-Adey-Innovations/notebooks/mlruns/0/94020c83604d470e9fdd9cb98f30f678/artifacts
+end_time: 1739860640719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94020c83604d470e9fdd9cb98f30f678
+run_name: masked-ox-245
+run_uuid: 94020c83604d470e9fdd9cb98f30f678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739860640617
+status: 4
+tags: []
+user_id: USER

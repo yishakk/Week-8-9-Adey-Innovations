@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Documents/10X_Exercises/Week-8-9-Adey-Innovations/notebooks/mlruns/0/12af37bc751946e5bf9b32865e430981/artifacts
+end_time: 1739860686442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12af37bc751946e5bf9b32865e430981
+run_name: capable-robin-650
+run_uuid: 12af37bc751946e5bf9b32865e430981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739860686027
+status: 4
+tags: []
+user_id: USER
