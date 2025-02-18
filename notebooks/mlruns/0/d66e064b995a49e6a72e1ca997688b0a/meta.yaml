@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Documents/10X_Exercises/Week-8-9-Adey-Innovations/notebooks/mlruns/0/d66e064b995a49e6a72e1ca997688b0a/artifacts
+end_time: 1739860722104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d66e064b995a49e6a72e1ca997688b0a
+run_name: gentle-bass-111
+run_uuid: d66e064b995a49e6a72e1ca997688b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739860711524
+status: 3
+tags: []
+user_id: USER

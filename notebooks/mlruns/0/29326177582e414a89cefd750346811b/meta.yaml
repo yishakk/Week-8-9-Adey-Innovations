@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Documents/10X_Exercises/Week-8-9-Adey-Innovations/notebooks/mlruns/0/29326177582e414a89cefd750346811b/artifacts
+end_time: 1739866564593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29326177582e414a89cefd750346811b
+run_name: fortunate-gnat-163
+run_uuid: 29326177582e414a89cefd750346811b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739866561564
+status: 3
+tags: []
+user_id: USER
