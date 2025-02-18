@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Documents/10X_Exercises/Week-8-9-Adey-Innovations/notebooks/mlruns/0/f5e547be18ca411782551710a51c5b74/artifacts
+end_time: 1739866305662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5e547be18ca411782551710a51c5b74
+run_name: handsome-smelt-420
+run_uuid: f5e547be18ca411782551710a51c5b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739866287242
+status: 3
+tags: []
+user_id: USER
